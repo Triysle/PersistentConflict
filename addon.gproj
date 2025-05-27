@@ -1,8 +1,0 @@
-GameProject {
- ID "PersistentConflict"
- GUID "64F09D637ED341A5"
- TITLE "PersistentConflict"
- Dependencies {
-  "58D0FB3206B6F859"
- }
-}
